@@ -1,6 +1,6 @@
 {
   "v1-lvl10-010-dir": {
-	  "1040-10-13710-fcr-osy-sd-aws-alp-lvl20-010-dir": {
+    "1040-10-13710-fcr-osy-sd-aws-alp-lvl20-010-dir": {
       "cmn-lvl30-010-dir": {
         "cfg-lvl40-010-dir": "1040-10-13710-fcr-osy-sd-aws-alp-dep-cfg-v0-0-01-lvl50-010-fil.json",
         "env-lvl40-020-dir": "1040-10-13710-fcr-osy-sd-aws-alp-dep-env-v0-0-01-lvl50-010-fil.json",
