@@ -1,1 +1,9 @@
-Sample file.
+{
+  "v1-lvl10-010-dir": {
+    "cnf-lvl20-010-dir": "1040-10-13710-fcr-osy-sd-aws-alp-cnf-v0-0-01-lvl30-010-fil.yaml",
+    "dpl-lvl20-020-dir": "1040-10-13710-fcr-osy-sd-aws-alp-dpl-v0-0-01-lvl30-010-fil.yaml",
+    "hlm-lvl20-030-dir": "1040-10-13710-fcr-osy-sd-aws-alp-hlm-v0-0-01-lvl30-010-fil.yaml",
+    "pfl-lvl20-040-dir": "1040-10-13710-fcr-osy-sd-aws-alp-pfl-v0-0-01-lvl30-010-fil.yaml",
+    "svc-lvl20-050-dir": "1040-10-13710-fcr-osy-sd-aws-alp-svc-v0-0-01-lvl30-010-fil.yaml"
+  }
+}
