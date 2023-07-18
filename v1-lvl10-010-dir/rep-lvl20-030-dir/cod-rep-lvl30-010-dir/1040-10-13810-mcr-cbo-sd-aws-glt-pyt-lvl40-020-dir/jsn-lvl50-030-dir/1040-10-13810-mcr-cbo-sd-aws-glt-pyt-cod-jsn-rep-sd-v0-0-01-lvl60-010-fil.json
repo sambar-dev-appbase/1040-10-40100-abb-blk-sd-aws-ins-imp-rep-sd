@@ -1,0 +1,32 @@
+{
+  "v1-lvl10-010-dir": {
+    "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-lvl20-010-dir": {
+      "cmn-lvl30-010-dir": {
+        "cfg-lvl40-010-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-cfg-v0-0-01-lvl50-010-fil.json",
+        "env-lvl40-020-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-env-v0-0-01-lvl50-010-fil.json",
+        "lan-lvl40-030-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-lan-v0-0-01-lvl50-010-fil.json",
+        "lib-lvl40-040-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-lib-v0-0-01-lvl50-010-fil.json",
+        "mod-lvl40-050-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-mod-v0-0-01-lvl50-010-fil.json",
+        "net-lvl40-060-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-net-v0-0-01-lvl50-010-fil.json",
+        "pkg-lvl40-070-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-pkg-v0-0-01-lvl50-010-fil.json",
+        "rmt-lvl40-080-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-rmt-v0-0-01-lvl50-010-fil.json",
+        "rvc-lvl40-090-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-rvc-v0-0-01-lvl50-010-fil.json",
+        "rvd-lvl40-100-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-rvd-v0-0-01-lvl50-010-fil.json",
+        "sch-lvl40-110-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-sch-v0-0-01-lvl50-010-fil.json",
+        "sys-lvl40-120-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-sys-v0-0-01-lvl50-010-fil.py",
+        "tol-lvl40-130-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-tol-v0-0-01-lvl50-010-fil.json"
+      },
+      "prv-lvl30-020-dir": {
+        "ast-lvl40-010-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-ast-v0-0-01-lvl50-010-fil.json",
+        "cre-lvl40-020-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-cre-v0-0-01-lvl50-010-fil.json",
+        "dat-lvl40-030-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-dat-v0-0-01-lvl50-010-fil.json",
+        "med-lvl40-040-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-med-v0-0-01-lvl50-010-fil.json",
+        "ppp-lvl40-050-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-ppp-v0-0-01-lvl50-010-fil.json",
+        "rva-lvl40-060-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-rva-v0-0-01-lvl50-010-fil.json",
+        "rvb-lvl40-070-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-rvb-v0-0-01-lvl50-010-fil.json",
+        "stk-lvl40-080-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dep-stk-v0-0-01-lvl50-010-fil.json"
+      }
+    },
+    "dkr-lvl20-020-dir": "Dockerfile"
+  }
+}

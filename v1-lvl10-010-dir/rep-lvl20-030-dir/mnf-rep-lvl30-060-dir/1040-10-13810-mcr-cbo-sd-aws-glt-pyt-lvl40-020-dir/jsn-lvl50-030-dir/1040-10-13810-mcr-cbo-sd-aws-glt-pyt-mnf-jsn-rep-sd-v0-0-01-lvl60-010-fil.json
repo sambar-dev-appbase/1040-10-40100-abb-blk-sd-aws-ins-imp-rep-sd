@@ -1,0 +1,9 @@
+{
+  "v1-lvl10-010-dir": {
+    "cnf-lvl20-010-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-cnf-v0-0-01-lvl30-010-fil.yaml",
+    "dpl-lvl20-020-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-dpl-v0-0-01-lvl30-010-fil.yaml",
+    "hlm-lvl20-030-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-hlm-v0-0-01-lvl30-010-fil.yaml",
+    "pfl-lvl20-040-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-pfl-v0-0-01-lvl30-010-fil.yaml",
+    "svc-lvl20-050-dir": "1040-10-13810-mcr-cbo-sd-aws-glt-pyt-svc-v0-0-01-lvl30-010-fil.yaml"
+  }
+}
