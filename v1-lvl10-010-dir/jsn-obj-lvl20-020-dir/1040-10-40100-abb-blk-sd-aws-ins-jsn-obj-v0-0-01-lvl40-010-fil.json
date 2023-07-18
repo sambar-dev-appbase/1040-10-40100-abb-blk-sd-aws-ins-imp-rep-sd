@@ -1,0 +1,243 @@
+[
+  {
+    "aliasNameKEY": "none",
+    "blockNumberKEY": "1040-10",
+    "fqbidKEY": "1040-10-40100-abb-blk-sd-aws",
+    "blockDescriptionKEY": "galactic-operating-system",
+    "stackNameKEY": "1040-10-40100-abb-blk-sd-aws-ins-dep-stk-v0-0-01-lvl20-010-fil.py",
+    "rbr": {
+      "aliasNameKEY": "none",
+      "resourceNameKEY": "glt-1040-10-rbr-sd-aws",
+      "fqridKEY": "1040-10-13705-ccr-rbr-sd-aws",
+      "accessTypeKEY": "none",
+      "stackNameKEY": "1040-10-13705-ccr-rbr-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+      "deploymentOrderNumber13700KEY": "13705",
+      "deletionProtectionFlag13700KEY": "none",
+      "cbr": {
+        "aliasNameKEY": "none",
+        "resourceNameKEY": "glt-1040-10-cbr-sd-aws",
+        "fqridKEY": "1040-10-13710-fcr-cbr-sd-aws",
+        "accessTypeKEY": "none",
+        "stackNameKEY": "1040-10-13710-fcr-cbr-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+        "deploymentOrderNumber13700KEY": "13710",
+        "deletionProtectionFlag13700KEY": "none",
+        "13800": [
+          {
+            "aliasNameKEY": "none",
+            "fqlidKEY": "1040-10-13800-bll-leg-sd-aws",
+            "stackNameKEY": "1040-10-13800-bll-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+          },
+          {
+            "cch": {
+              "aliasNameKEY": "none",
+              "resourceNameKEY": "pyt-v3-11-4-1040-10-cch-sd-aws",
+              "fqridKEY": "1040-10-13805-jcr-cch-sd-aws",
+              "accessTypeKEY": "none",
+              "stackNameKEY": "1040-10-13805-jcr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+              "deploymentOrderNumber13800KEY": "13805",
+              "deletionProtectionFlag13800KEY": "none",
+              "cbo": {
+                "aliasNameKEY": "none",
+                "resourceNameKEY": "glt-pyt-1040-10-cbo-sd-aws",
+                "fqridKEY": "1040-10-13810-mcr-cbo-sd-aws",
+                "accessTypeKEY": "none",
+                "stackNameKEY": "1040-10-13810-mcr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                "deploymentOrderNumber13800KEY": "13810",
+                "deletionProtectionFlag13800KEY": "none",
+                "14100": [
+                  {
+                    "aliasNameKEY": "none",
+                    "fqlidKEY": "1040-10-14100-ell-leg-sd-aws",
+                    "stackNameKEY": "1040-10-14100-ell-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+                  },
+                  {
+                    "cch": {
+                      "aliasNameKEY": "none",
+                      "resourceNameKEY": "cli-v2-10-0-1040-10-cch-sd-aws",
+                      "fqridKEY": "1040-10-13905-ccr-cch-sd-aws",
+                      "accessTypeKEY": "none",
+                      "stackNameKEY": "1040-10-13905-ccr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                      "deploymentOrderNumber14100KEY": "22222",
+                      "deletionProtectionFlag14100KEY": "none",
+                      "cbo": {
+                        "aliasNameKEY": "none",
+                        "resourceNameKEY": "glt-pyt-cli-1040-10-cbo-sd-aws",
+                        "fqridKEY": "1040-10-14105-ccr-cbo-sd-aws",
+                        "accessTypeKEY": "none",
+                        "stackNameKEY": "1040-10-14105-ccr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                        "deploymentOrderNumber14100KEY": "14105",
+                        "deletionProtectionFlag14100KEY": "none",
+                        "14300": [
+                          {
+                            "aliasNameKEY": "none",
+                            "fqlidKEY": "1040-10-14300-gll-leg-sd-aws",
+                            "stackNameKEY": "1040-10-14300-gll-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+                          },
+                          {
+                            "cch": {
+                              "aliasNameKEY": "none",
+                              "resourceNameKEY": "kub-v1-27-3-1040-10-cch-sd-aws",
+                              "fqridKEY": "1040-10-14005-ccr-cch-sd-aws",
+                              "accessTypeKEY": "none",
+                              "stackNameKEY": "1040-10-14005-ccr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                              "deploymentOrderNumber14000KEY": "22222",
+                              "deletionProtectionFlag14000KEY": "none",
+                              "cbo": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "glt-pyt-cli-kub-1040-10-cbo-sd-aws",
+                                "fqridKEY": "1040-10-14305-ccr-cbo-sd-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "1040-10-14305-ccr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                                "deploymentOrderNumber14300KEY": "14305",
+                                "deletionProtectionFlag14300KEY": "none"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "14200": [
+                  {
+                    "aliasNameKEY": "none",
+                    "fqlidKEY": "1040-10-14200-fll-leg-sd-aws",
+                    "stackNameKEY": "1040-10-14200-fll-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+                  },
+                  {
+                    "cch": {
+                      "aliasNameKEY": "none",
+                      "resourceNameKEY": "kub-v1-27-3-1040-10-cch-sd-aws",
+                      "fqridKEY": "1040-10-14005-ccr-cch-sd-aws",
+                      "accessTypeKEY": "none",
+                      "stackNameKEY": "1040-10-14005-ccr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                      "deploymentOrderNumber14000KEY": "22222",
+                      "deletionProtectionFlag14000KEY": "none",
+                      "cbo": {
+                        "aliasNameKEY": "none",
+                        "resourceNameKEY": "glt-pyt-kub-1040-10-cbo-sd-aws",
+                        "fqridKEY": "1040-10-14205-ccr-cbo-sd-aws",
+                        "accessTypeKEY": "none",
+                        "stackNameKEY": "1040-10-14205-ccr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                        "deploymentOrderNumber14200KEY": "14205",
+                        "deletionProtectionFlag14200KEY": "none"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "13900": [
+          {
+            "aliasNameKEY": "none",
+            "fqlidKEY": "1040-10-13900-cll-leg-sd-aws",
+            "stackNameKEY": "1040-10-13900-cll-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+          },
+          {
+            "cch": {
+              "aliasNameKEY": "none",
+              "resourceNameKEY": "cli-v2-10-0-1040-10-cch-sd-aws",
+              "fqridKEY": "1040-10-13905-ccr-cch-sd-aws",
+              "accessTypeKEY": "none",
+              "stackNameKEY": "1040-10-13905-ccr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+              "deploymentOrderNumber13900KEY": "13905",
+              "deletionProtectionFlag13900KEY": "none",
+              "cbo": {
+                "aliasNameKEY": "none",
+                "resourceNameKEY": "glt-cli-1040-10-cbo-sd-aws",
+                "fqridKEY": "1040-10-13910-fcr-cbo-sd-aws",
+                "accessTypeKEY": "none",
+                "stackNameKEY": "1040-10-13910-fcr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                "deploymentOrderNumber13900KEY": "13910",
+                "deletionProtectionFlag13900KEY": "none",
+                "14400": [
+                  {
+                    "aliasNameKEY": "none",
+                    "fqlidKEY": "1040-10-14400-hll-leg-sd-aws",
+                    "stackNameKEY": "1040-10-14400-hll-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+                  },
+                  {
+                    "cch": {
+                      "aliasNameKEY": "none",
+                      "resourceNameKEY": "kub-v1-27-3-1040-10-cch-sd-aws",
+                      "fqridKEY": "1040-10-14005-ccr-cch-sd-aws",
+                      "accessTypeKEY": "none",
+                      "stackNameKEY": "1040-10-14005-ccr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                      "deploymentOrderNumber14400KEY": "22222",
+                      "deletionProtectionFlag14400KEY": "none",
+                      "cbo": {
+                        "aliasNameKEY": "none",
+                        "resourceNameKEY": "glt-cli-kub-1040-10-cbo-sd-aws",
+                        "fqridKEY": "1040-10-14405-ccr-cbo-sd-aws",
+                        "accessTypeKEY": "none",
+                        "stackNameKEY": "1040-10-14405-ccr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                        "deploymentOrderNumber14400KEY": "14405",
+                        "deletionProtectionFlag14400KEY": "none"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "14000": [
+          {
+            "aliasNameKEY": "none",
+            "fqlidKEY": "1040-10-14000-dll-leg-sd-aws",
+            "stackNameKEY": "1040-10-14000-dll-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+          },
+          {
+            "cch": {
+              "aliasNameKEY": "none",
+              "resourceNameKEY": "kub-v1-27-3-1040-10-cch-sd-aws",
+              "fqridKEY": "1040-10-14005-ccr-cch-sd-aws",
+              "accessTypeKEY": "none",
+              "stackNameKEY": "1040-10-14005-ccr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+              "deploymentOrderNumber14000KEY": "14005",
+              "deletionProtectionFlag14000KEY": "none",
+              "cbo": {
+                "aliasNameKEY": "none",
+                "resourceNameKEY": "glt-kub-1040-10-cbo-sd-aws",
+                "fqridKEY": "1040-10-14010-fcr-cbo-sd-aws",
+                "accessTypeKEY": "none",
+                "stackNameKEY": "1040-10-14010-fcr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                "deploymentOrderNumber14000KEY": "14010",
+                "deletionProtectionFlag14000KEY": "none"
+              }
+            }
+          }
+        ],
+        "14500": [
+          {
+            "aliasNameKEY": "none",
+            "fqlidKEY": "1040-10-14500-ill-leg-sd-aws",
+            "stackNameKEY": "1040-10-14500-ill-leg-sd-aws-dep-stk-v0-0-01-lvl20-010-fil.py"
+          },
+          {
+            "cch": {
+              "aliasNameKEY": "none",
+              "resourceNameKEY": "njs-v16-19-1-1040-10-cch-sd-aws",
+              "fqridKEY": "1040-10-14505-ccr-cch-sd-aws",
+              "accessTypeKEY": "none",
+              "stackNameKEY": "1040-10-14505-ccr-cch-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+              "deploymentOrderNumber14500KEY": "14505",
+              "deletionProtectionFlag14500KEY": "none",
+              "cbo": {
+                "aliasNameKEY": "none",
+                "resourceNameKEY": "glt-njs-1040-10-cbo-sd-aws",
+                "fqridKEY": "1040-10-14510-fcr-cbo-sd-aws",
+                "accessTypeKEY": "none",
+                "stackNameKEY": "1040-10-14510-fcr-cbo-sd-aws-leg-sd-dep-stk-v0-0-01-lvl50-010-fil.py",
+                "deploymentOrderNumber14500KEY": "14510",
+                "deletionProtectionFlag14500KEY": "none"
+              }
+            }
+          }
+        ] 
+      }
+    }
+  }
+]
